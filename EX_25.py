@@ -6,6 +6,7 @@ HI: int = 0 # Hora inicial do jogo
 MI: int = 0 # Minuto inicial do jogo
 HF: int = 0 # Hora final do jogo
 MF: int = 0 # Minuto final do jogo
+TJ: int = 0 #Tempo de jogo
 TJH: int = 0 # Tempo total do jogo em horas
 TJM: int = 0 # Tempo total do jogo em minutos
 
